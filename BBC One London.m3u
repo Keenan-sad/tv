@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1,BBC One London (Live)
+https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_london/pc_hd_abr_v2.mpd
