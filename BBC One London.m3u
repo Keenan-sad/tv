@@ -1,25 +1,31 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz"
-#EXTINF:-1 tvg-id="BBC.One.Lon.HD.uk" tvg-name="BBC One London" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3000.png" group-title="UK TV",BBC One London
+#EXTINF:-1 tvg-id="BBC.One.Lon.HD.uk" tvg-name="BBC One Lon HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3000.png" group-title="UK TV",BBC One London
 https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_london/pc_hd_abr_v2.mpd
-#EXTINF:-1 tvg-id="BBC.Two.HD.uk" tvg-name="BBC Two" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2075.png" group-title="UK TV",BBC Two
+#EXTINF:-1 tvg-id="BBC.Two.HD.uk" tvg-name="BBC Two HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2075.png" group-title="UK TV",BBC Two
 https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/pc_hd_abr_v2.mpd
-#EXTINF:-1 tvg-id="BBC.Three.HD.uk" tvg-name="BBC Three" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2080.png" group-title="UK TV",BBC Three
+#EXTINF:-1 tvg-id="BBC.Three.HD.uk" tvg-name="BBC Three HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2080.png" group-title="UK TV",BBC Three
 https://abfykgzaaaaaaaamh2u54kt5ocm42.vs-cmaf-pushb-uk.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_three_hd/pc_hd_abr_v2.mpd
-#EXTINF:-1 tvg-id="BBC.Four.HD.uk" tvg-name="BBC Four" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2086.png" group-title="UK TV",BBC Four
+#EXTINF:-1 tvg-id="BBC.Four.HD.uk" tvg-name="BBC Four HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2086.png" group-title="UK TV",BBC Four
 https://pub-c1-b6-eqsl-bbc.live.bidi.net.uk/vs-cmaf-pushb-uk/x=4/i=urn:bbc:pips:service:bbc_four_hd/pc_hd_abr_v2.mpd
-#EXTINF:-1 tvg-id="CBBC.HD.uk" tvg-name="CBBC" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2078.png" group-title="UK TV",CBBC
+#EXTINF:-1 tvg-id="CBBC.HD.uk" tvg-name="CBBC HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2078.png" group-title="UK TV",CBBC
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/pc_hd_abr_v2.mpd
-#EXTINF:-1 tvg-id="CBeebies.HD.uk" tvg-name="CBeebies" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2088.png" group-title="UK TV",CBeebies
+#EXTINF:-1 tvg-id="CBeebies.HD.uk" tvg-name="CBeebies HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2088.png" group-title="UK TV",CBeebies
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/pc_hd_abr_v2.mpd
-#EXTINF:-1 tvg-id="BBC.NEWS.HD.uk" tvg-name="BBC News" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2085.png" group-title="UK TV",BBC News
+#EXTINF:-1 tvg-id="BBC.NEWS.HD.uk" tvg-name="BBC NEWS HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2085.png" group-title="UK TV",BBC News
 https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/pc_hd_abr_v2.mpd
-#EXTINF:-1 tvg-id="Channel.4.HD.uk" tvg-name="Channel 4" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4075.png" group-title="UK TV",Channel 4
+#EXTINF:-1 tvg-id="Channel.4.HD.uk" tvg-name="Channel 4 HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4075.png" group-title="UK TV",Channel 4
 https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(c4)/manifest_sd.mpd
-#EXTINF:-1 tvg-id="E4.HD.uk" tvg-name="E4" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4076.png" group-title="UK TV",E4
+#EXTINF:-1 tvg-id="E4.HD.uk" tvg-name="E4 HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4076.png" group-title="UK TV",E4
 https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(e4)/manifest_sd.mpd
-#EXTINF:-1 tvg-id="More4.HD.uk" tvg-name="More4" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4043.png" group-title="UK TV",More4
+#EXTINF:-1 tvg-id="More4.HD.uk" tvg-name="More4 HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4043.png" group-title="UK TV",More4
 https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(m4)/manifest_sd.mpd
-#EXTINF:-1 tvg-id="Film4.HD.uk" tvg-name="Film4" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4044.png" group-title="UK TV",Film4
+#EXTINF:-1 tvg-id="Film4.HD.uk" tvg-name="Film4 HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4044.png" group-title="UK TV",Film4
 https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(f4)/manifest_sd.mpd
 #EXTINF:-1 tvg-id="4seven.uk" tvg-name="4seven" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3150.png" group-title="UK TV",4seven
 https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(4s)/manifest_sd.mpd
+
+#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="SkySp PL HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4010.png" group-title="Sports" cleanframe-player="html5",Sky Sports Premier League HD
+https://embed.st/embed/admin/ppv-ipswich-town-vs-nottingham-forest/1
+
+#EXTINF:-1 tvg-id="Sky.Sports.Ultra.HD.1.uk" tvg-name="Sky Sports Ultra HD 1" tvg-logo="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/sky-sports-uhd.png" group-title="Sports" cleanframe-player="html5",Sky Sports Ultra HD 1 (4K)
+https://embed.st/embed/hotel/ipswich-town-vs-nottingham-forest-premier-league-1792780200/2
