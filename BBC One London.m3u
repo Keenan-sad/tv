@@ -29,3 +29,54 @@ https://embed.st/embed/admin/ppv-ipswich-town-vs-nottingham-forest/1
 
 #EXTINF:-1 tvg-id="Sky.Sports.Ultra.HD.1.uk" tvg-name="Sky Sports Ultra HD 1" tvg-logo="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/sky-sports-uhd.png" group-title="Sports" cleanframe-player="html5",Sky Sports Ultra HD 1
 https://embed.st/embed/hotel/ipswich-town-vs-nottingham-forest-premier-league-1792780200/2
+
+#EXTINF:-1 tvg-id="ITV1.HD.uk" tvg-name="ITV1 HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb6504.png" group-title="UK TV",ITV1
+https://www.itv.com/watch?channel=itv
+#EXTINF:-1 tvg-id="ITV2.HD.uk" tvg-name="ITV2 HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb6532.png" group-title="UK TV",ITV2
+https://www.itv.com/watch?channel=itv2
+#EXTINF:-1 tvg-id="ITV3.HD.uk" tvg-name="ITV3 HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb6533.png" group-title="UK TV",ITV3
+https://www.itv.com/watch?channel=itv3
+#EXTINF:-1 tvg-id="ITV4.HD.uk" tvg-name="ITV4 HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb6534.png" group-title="UK TV",ITV4
+https://www.itv.com/watch?channel=itv4
+#EXTINF:-1 tvg-id="ITV.Quiz.uk" tvg-name="ITV Quiz" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3026.png" group-title="UK TV",ITV Quiz
+https://www.itv.com/watch?channel=itvbe
+#EXTINF:-1 tvg-id="itvx-fast15" tvg-name="The Walking Dead Universe" tvg-logo="https://images.ctfassets.net/bd5zurrrnk1g/3OwBLMGK02eYAulQUXZhb9/f3897536ff65b92677ea50e70f0a8f27/BRAND_AMC_TheWalkingDeadUniverse_IMAGE006_PNG.png" group-title="ITVX",The Walking Dead Universe
+https://www.itv.com/watch?channel=fast15
+#EXTINF:-1 tvg-id="itvx-fast1" tvg-name="ITV Xmas Movies" tvg-logo="https://images.ctfassets.net/bd5zurrrnk1g/4L81YGfY8cLXWLYg5zadFF/05473afb02e7b70a49faee1fe4d27adf/09_Logo_ArtLoader__1_.png" group-title="ITVX",ITV Xmas Movies
+https://www.itv.com/watch?channel=fast1
+#EXTINF:-1 tvg-id="itvx-fast6" tvg-name="ITVX Kids" tvg-logo="https://images.ctfassets.net/bd5zurrrnk1g/7cQcK18rZ9ssKtDsoDP47S/5fe8943093162cab6ff0e4caa063a089/ITVXKids.png" group-title="ITVX",ITVX Kids
+https://www.itv.com/watch?channel=fast6
+#EXTINF:-1 tvg-id="itvx-fast14" tvg-name="Classic Coronation Street" tvg-logo="https://images.ctfassets.net/bd5zurrrnk1g/1bela7cOFKhS1g04hqgkb1/f60bf4338ead7abc2f06c9706285e27f/1x1_logo.png" group-title="ITVX",Classic Coronation Street
+https://www.itv.com/watch?channel=fast14
+#EXTINF:-1 tvg-id="itvx-fast17" tvg-name="ITV Comedy 24/7" tvg-logo="https://images.ctfassets.net/bd5zurrrnk1g/4e4aO1OGl1QI5cx3EE6PCc/dd556e088b8e26c72f08e3b715508093/itv-comedy-logo.png" group-title="ITVX",ITV Comedy 24/7
+https://www.itv.com/watch?channel=fast17
+#EXTINF:-1 tvg-id="itvx-fast10" tvg-name="ITV All Star Movies 24/7 Channel" tvg-logo="https://images.ctfassets.net/bd5zurrrnk1g/5dxkmYQbMIgzettppEwhjG/f4124bb1546c57d8acdd6f2f5ce5ba52/tbirdslogo-Recovered.png" group-title="ITVX",ITV All Star Movies 24/7 Channel
+https://www.itv.com/watch?channel=fast10
+#EXTINF:-1 tvg-id="itvx-fast13" tvg-name="TOWIE TV" tvg-logo="https://images.ctfassets.net/bd5zurrrnk1g/2roGiP2lXYjDk5eqPbJtvs/feb5d0cc11ed601ed342f79429c2ac83/TOWIETV.png" group-title="ITVX",TOWIE TV
+https://www.itv.com/watch?channel=fast13
+#EXTINF:-1 tvg-id="itvx-fast20" tvg-name="Homicide Hunter 24/7" tvg-logo="https://images.ctfassets.net/bd5zurrrnk1g/5A5M9GwGzPXWq4pXR9NWOp/6fad6a774fb57da5de34ec677decdff2/1x1_tile.png" group-title="ITVX",Homicide Hunter 24/7
+https://www.itv.com/watch?channel=fast20
+#EXTINF:-1 tvg-id="itvx-fast22" tvg-name="Space Live 24/7 Channel" tvg-logo="https://images.ctfassets.net/bd5zurrrnk1g/5WS6GYjXcmjpf50Od1705G/10e222414757f69510a2918266e9780f/16SPACE_LIVE_STACKED_W_2_EPG_ONLY__1_.png" group-title="ITVX",Space Live 24/7 Channel
+https://www.itv.com/watch?channel=fast22
+#EXTINF:-1 tvg-id="itvx-fast3" tvg-name="The Chase" tvg-logo="https://images.ctfassets.net/bd5zurrrnk1g/1qjkPCSIfR1nYPYcLyKef2/dea8a504e77a4771ae0d07c7cfb8c351/TheChase.png" group-title="ITVX",The Chase
+https://www.itv.com/watch?channel=fast3
+#EXTINF:-1 tvg-id="itvx-fast19" tvg-name="Thunderbirds & Co" tvg-logo="https://images.ctfassets.net/bd5zurrrnk1g/3154HA9RKzU4fBlqNYEus7/e48cd374000ce18d8ceee3bf3baee8eb/tbirdslogo.png" group-title="ITVX",Thunderbirds & Co
+https://www.itv.com/watch?channel=fast19
+#EXTINF:-1 tvg-id="itvx-fast7" tvg-name="ITV Signed" tvg-logo="https://images.ctfassets.net/bd5zurrrnk1g/5QmuRQKMe5KbCjL970chzL/82f09f0d8896509c7410b1c2bd934fb7/itvSigned__1_.png" group-title="ITVX",ITV Signed
+https://www.itv.com/watch?channel=fast7
+#EXTINF:-1 tvg-id="itvx-fast8" tvg-name="ITV Crime Drama" tvg-logo="https://images.ctfassets.net/bd5zurrrnk1g/6rtWiU6OtjkfT9Npfc5P0X/93055b91fe2b1cc98d041cdbd8c6421f/ITV_CrimeDrama_Lockup.png" group-title="ITVX",ITV Crime Drama
+https://www.itv.com/watch?channel=fast8
+#EXTINF:-1 tvg-id="itvx-fast5" tvg-name="ITV NatureTime" tvg-logo="https://images.ctfassets.net/bd5zurrrnk1g/4xICGB849oEi7Nop3SWlgr/94c367d324b5428549977cc799c353ea/ITV_NatureTime_Lockup2__1_.png" group-title="ITVX",ITV NatureTime
+https://www.itv.com/watch?channel=fast5
+#EXTINF:-1 tvg-id="itvx-fast16" tvg-name="Carry On and On" tvg-logo="https://images.ctfassets.net/bd5zurrrnk1g/Tvv19BUUJB1Dc0Vn1fxgW/1b71c943973e8659424487af75ff6b66/logo-itv-carryon2.png" group-title="ITVX",Carry On and On
+https://www.itv.com/watch?channel=fast16
+#EXTINF:-1 tvg-id="itvx-fast11" tvg-name="Real Housewives UK" tvg-logo="https://images.ctfassets.net/bd5zurrrnk1g/7K16Jra1usctsViohfCOnc/c15d5181ad5d043483ca8267207180ae/RealHousewivesUK.png" group-title="ITVX",Real Housewives UK
+https://www.itv.com/watch?channel=fast11
+#EXTINF:-1 tvg-id="itvx-fast4" tvg-name="ITV Saturday Night Every Night!" tvg-logo="https://images.ctfassets.net/bd5zurrrnk1g/keA8ygf8d4v92gpRfHmzu/1c7835b0622ebe65e787670d872b2d39/logo-itv-satnight.png" group-title="ITVX",ITV Saturday Night Every Night!
+https://www.itv.com/watch?channel=fast4
+#EXTINF:-1 tvg-id="itvx-fast9" tvg-name="Love Island 24/7" tvg-logo="https://images.ctfassets.net/bd5zurrrnk1g/3itg2dJFj2WLT35tUhfA1K/72d79a4c9ccfdf6ef626c8b5d5ff0a0e/LoveIsland.png" group-title="ITVX",Love Island 24/7
+https://www.itv.com/watch?channel=fast9
+#EXTINF:-1 tvg-id="itvx-fast12" tvg-name="Midsomer Murders" tvg-logo="https://images.ctfassets.net/bd5zurrrnk1g/2Je2uvxSQQMnM7alo6956p/c171dc2158472333b566d3e16c383482/MidsomerMurders.png" group-title="ITVX",Midsomer Murders
+https://www.itv.com/watch?channel=fast12
+#EXTINF:-1 tvg-id="itvx-fast2" tvg-name="Vera" tvg-logo="https://images.ctfassets.net/bd5zurrrnk1g/28u2JWDVeus5FJeXDmLFH/1fa4e4cbb57926639cc9fc633aa22cde/Vera.png" group-title="ITVX",Vera
+https://www.itv.com/watch?channel=fast2
